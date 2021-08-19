@@ -1,4 +1,4 @@
-package inverso.controller.view;
+package inverso.view;
 
 import inverso.controller.Inversao;
 
